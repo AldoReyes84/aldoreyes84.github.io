@@ -98,41 +98,41 @@ Esta sección define transformaciones reutilizables basadas en tiempo usando *Ca
 
 ## Diseño del Dashboard y Storytelling  
 
-| KPI´s que pueden brindarnos una visión general simple del estado de ventas de la compañía. |  
-|--------------------------------------------------------------------------------------------|  
-|<img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/fc621312-15e8-489b-a94b-8334787ec451" />|  
-|                                                                                            |  
-| Tabla anual para tener una mejor perspectiva de las métricas comparadas a lo largo del tiempo. |  
-|                                                                                            |  
-| <img width="500" height="186" alt="image" src="https://github.com/user-attachments/assets/ebc830f8-22d7-43d4-b64e-464e8ebfbed0" /> |  
-|                                                                                            |  
-| Histograma de Ventas 2013 vs LY (año anterior).                                            |  
-|                                                                                            |  
-| <img width="500" height="124" alt="image" src="https://github.com/user-attachments/assets/d5db401b-2e53-46f1-852e-7e4cf5a82cc4" /> |  
-|                                                                                            |  
-| Grupo de medidas de Inteligencia Temporal con YTD.                                         |  
-|                                                                                            |  
-| <img width="500" height="133" alt="image" src="https://github.com/user-attachments/assets/6b9b0eb6-5131-4996-9c7b-f3110f95459c" /> |  
-|                                                                                            |  
-| YOY muestra Ventas 2012 vs 2011.                                                           |  
-|                                                                                            |  
-| <img width="500" height="114" alt="image" src="https://github.com/user-attachments/assets/aa93ef1f-0d67-4c9e-9fc8-75e0cb17519b" /> |  
-|                                                                                            |  
-| YOY% desactiva los KPI´s y la tabla, pero proporciona una línea comparativa para Ventas 2012 vs 2013 en la visualización del histograma. |  
-|                                                                                            |  
-| <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/9f014f26-abde-4a93-86e1-6d1c5276b67b" /> |  
-|                                                                                            |  
-| Gráfico de barras de Ventas por Canal, Categoría y Subcategoría con filtros interactivos para el resto del dashboard. |  
-|                                                                                            |  
-| <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/849279d9-d5c5-450b-aaf5-cdecc3f1dc4e" /> |  
-|                                                                                            |  
-| Mapa de burbujas con desglose por Continente/País, interactivo para el resto del dashboard. |  
-|                                                                                            |  
-| <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/dd734d8a-3d1e-4ae3-a769-9a78b5b3753b" /> |  
-|                                                                                            |  
-| Productos más rentables, interactivos con el resto del dashboard.                          |  
-| <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/cbdfc629-cda1-410e-9268-0f35a25b0d9e" /> |  
-|                                                                                            |  
+ KPI´s que pueden brindarnos una visión general simple del estado de ventas de la compañía.   
+--------------------------------------------------------------------------------------------  
+<img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/fc621312-15e8-489b-a94b-8334787ec451" />  
+                                                                                              
+ Tabla anual para tener una mejor perspectiva de las métricas comparadas a lo largo del tiempo.   
+                                                                                              
+ <img width="500" height="186" alt="image" src="https://github.com/user-attachments/assets/ebc830f8-22d7-43d4-b64e-464e8ebfbed0" />   
+                                                                                              
+ Histograma de Ventas 2013 vs LY (año anterior).                                              
+                                                                                              
+ <img width="500" height="124" alt="image" src="https://github.com/user-attachments/assets/d5db401b-2e53-46f1-852e-7e4cf5a82cc4" />   
+                                                                                              
+ Grupo de medidas de Inteligencia Temporal con YTD.                                           
+                                                                                              
+ <img width="500" height="133" alt="image" src="https://github.com/user-attachments/assets/6b9b0eb6-5131-4996-9c7b-f3110f95459c" />   
+                                                                                              
+ YOY muestra Ventas 2012 vs 2011.                                                             
+                                                                                              
+ <img width="500" height="114" alt="image" src="https://github.com/user-attachments/assets/aa93ef1f-0d67-4c9e-9fc8-75e0cb17519b" />   
+                                                                                              
+ YOY% desactiva los KPI´s y la tabla, pero proporciona una línea comparativa para Ventas 2012 vs 2013 en la visualización del histograma.   
+                                                                                              
+ <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/9f014f26-abde-4a93-86e1-6d1c5276b67b" />   
+                                                                                              
+ Gráfico de barras de Ventas por Canal, Categoría y Subcategoría con filtros interactivos para el resto del dashboard.   
+                                                                                              
+ <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/849279d9-d5c5-450b-aaf5-cdecc3f1dc4e" />   
+                                                                                              
+ Mapa de burbujas con desglose por Continente/País, interactivo para el resto del dashboard.   
+                                                                                              
+ <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/dd734d8a-3d1e-4ae3-a769-9a78b5b3753b" />   
+                                                                                              
+ Productos más rentables, interactivos con el resto del dashboard.                            
+ <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/cbdfc629-cda1-410e-9268-0f35a25b0d9e" />   
+                                                                                              
 
 La historia aquí es que los KPI´s muestran un desempeño saludable en 2013 con un **NetMargin de 55.79%**, acompañado de una baja tasa de devoluciones (**ReturnRate**) y un bajo monto de descuentos (**DiscountAmount**).
 

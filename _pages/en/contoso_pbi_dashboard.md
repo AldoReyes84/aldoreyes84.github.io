@@ -105,42 +105,42 @@ This section defines reusable time-based transformations using Calculation Group
 
 
 
-| KIP´s  that could provide us with a simple Overview of the company Sales statement. | 
-|-------------------------------------------------------------------------------------|
-|<img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/fc621312-15e8-489b-a94b-8334787ec451" />|
-|                                                                                                                                   | 
-| Yearly Table to have a better perspective of the metrics comparing throuh time.                                                   |
-|                                                                                                                                   |
-| <img width="500" height="186" alt="image" src="https://github.com/user-attachments/assets/ebc830f8-22d7-43d4-b64e-464e8ebfbed0" /> |
-|                                                                                                                                    |
-| Histogram for 2013 vs LY Sales                                                                                                     |
-|                                                                                                                                    | 
-| <img width="500" height="124" alt="image" src="https://github.com/user-attachments/assets/d5db401b-2e53-46f1-852e-7e4cf5a82cc4" /> |
-|                                                                                                                                    |
-| Time Intelligence Measure Group with YTD, |
-|                                           |
-| <img width="500" height="133" alt="image" src="https://github.com/user-attachments/assets/6b9b0eb6-5131-4996-9c7b-f3110f95459c" /> |
-|                                                                                                                                    |
-| YOY displays 2012 vs 2011 Sales |
-|                                 |
-| <img width="500" height="114" alt="image" src="https://github.com/user-attachments/assets/aa93ef1f-0d67-4c9e-9fc8-75e0cb17519b" /> |
-|                                                                                                                                    |
-| YOY% disable the KIP's and table but privides a comparative line for 2012 vs 2013 Sales on our histogram visualization |
-|                                                                                                                        |
-| <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/9f014f26-abde-4a93-86e1-6d1c5276b67b" /> |
-|                                                                                                                                     |
-| Channel, Category and Subcategory Sales Bar Chart interactive filters for the rest of the dashboard. |
-|                                                                                                      |
-| <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/849279d9-d5c5-450b-aaf5-cdecc3f1dc4e" /> |
-|                                                                                                                                     |
-| Bubble Map drilled down by Continent/Contry, interactive for the rest of the dashboard. |
-|                                                                                         |
-| <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/dd734d8a-3d1e-4ae3-a769-9a78b5b3753b" /> |
-|                                                                                                                                      |
-| Most profitable products interactive with the rest of the dashboard|
-|                                                                    |
-| <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/cbdfc629-cda1-410e-9268-0f35a25b0d9e" /> |
-|                                                                                                                                     |
+ KIP´s  that could provide us with a simple Overview of the company Sales statement.  
+-------------------------------------------------------------------------------------
+<img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/fc621312-15e8-489b-a94b-8334787ec451" />
+                                                                                                                                    
+ Yearly Table to have a better perspective of the metrics comparing throuh time.                                                   
+                                                                                                                                   
+ <img width="500" height="186" alt="image" src="https://github.com/user-attachments/assets/ebc830f8-22d7-43d4-b64e-464e8ebfbed0" /> 
+                                                                                                                                    
+ Histogram for 2013 vs LY Sales                                                                                                     
+                                                                                                                                     
+ <img width="500" height="124" alt="image" src="https://github.com/user-attachments/assets/d5db401b-2e53-46f1-852e-7e4cf5a82cc4" /> 
+                                                                                                                                    
+ Time Intelligence Measure Group with YTD, 
+                                           
+ <img width="500" height="133" alt="image" src="https://github.com/user-attachments/assets/6b9b0eb6-5131-4996-9c7b-f3110f95459c" /> 
+                                                                                                                                    
+ YOY displays 2012 vs 2011 Sales 
+                                 
+ <img width="500" height="114" alt="image" src="https://github.com/user-attachments/assets/aa93ef1f-0d67-4c9e-9fc8-75e0cb17519b" /> 
+                                                                                                                                    
+ YOY% disable the KIP's and table but privides a comparative line for 2012 vs 2013 Sales on our histogram visualization 
+                                                                                                                        
+ <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/9f014f26-abde-4a93-86e1-6d1c5276b67b" /> 
+                                                                                                                                     
+ Channel, Category and Subcategory Sales Bar Chart interactive filters for the rest of the dashboard. 
+                                                                                                      
+ <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/849279d9-d5c5-450b-aaf5-cdecc3f1dc4e" /> 
+                                                                                                                                     
+ Bubble Map drilled down by Continent/Contry, interactive for the rest of the dashboard. 
+                                                                                         
+ <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/dd734d8a-3d1e-4ae3-a769-9a78b5b3753b" /> 
+                                                                                                                                      
+ Most profitable products interactive with the rest of the dashboard
+                                                                    
+ <img width="500" height="289" alt="image" src="https://github.com/user-attachments/assets/cbdfc629-cda1-410e-9268-0f35a25b0d9e" /> 
+                                                                                                                                     
 
 
 The Story here is, KPI's are showing a healty preformance for 2013 55.79% NetMargin with low ReturnRate and DiscountAmount

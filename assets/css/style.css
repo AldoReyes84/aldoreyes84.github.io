@@ -613,6 +613,7 @@ main {
   background-color: white;
   box-shadow: 0 0 10px rgba(0,0,0,0.05);
   margin: 0;
+  max-width: 1060px;
 }
 
 .main-content {

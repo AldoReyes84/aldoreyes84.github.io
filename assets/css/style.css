@@ -632,6 +632,13 @@ img {
   display: block;   
 }
 
+pre, code {
+  max-width: 100%;      
+  white-space: pre-wrap; 
+  word-wrap: break-word; 
+  box-sizing: border-box;
+}
+
 .panel-content-main {
   opacity: 0;
   transform: translateY(10px);

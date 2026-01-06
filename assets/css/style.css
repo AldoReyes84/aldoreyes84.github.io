@@ -626,6 +626,12 @@ main {
   z-index: 100;
 }
 
+img {
+  max-width: 100%;   
+  height: auto;     
+  display: block;   
+}
+
 .panel-content-main {
   opacity: 0;
   transform: translateY(10px);

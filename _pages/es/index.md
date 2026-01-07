@@ -19,19 +19,19 @@ title: Aldo Alan Reyes Hernandez – BI Portfolio
 <div class="tooltip-container"><h5 class="tooltip-trigger"> Power BI || SQL || Excel || Python || SSIS </h5><span class="tooltip-text">El uso de estas herramientas se demuestra en los proyectos de este portafolio.</span></div>
 
 -----------------------------------------------------------------------------------------------
-## [Experiencia Laboral](https://aldoreyes84.github.io/working_experience/)
+## [Experiencia Laboral](https://aldoreyes84.github.io/working_experience/es/)
 
 ------------------------------------------------------------------------------------------------
-## [Acerca de mi](https://aldoreyes84.github.io/About-me/)
+## [Acerca de mi](https://aldoreyes84.github.io/about_me/es/)
 
 --------------------------------------------------------------------------------------------------
 ## Proyectos
 
-##### 1.- <img src="{{ 'assets/icons/powerbi.png' | relative_url }}" alt="power bi icon" width="24" height="17">[ Tablero de ventas en Power BI para Contoso ](https://aldoreyes84.github.io/Contoso-Sales-Power-BI-Dashboard/)
+##### 1.- <img src="{{ 'assets/icons/powerbi.png' | relative_url }}" alt="power bi icon" width="24" height="17">[ Tablero de ventas en Power BI para Contoso ](https://aldoreyes84.github.io/contoso_pbi_dashboard/es/)
 
-##### 2.- 🧠[ Análisis de datos BD AdventureWorks2022 ](https://aldoreyes84.github.io/Data_Analisys_For_AdventureWorksDW2022/)
+##### 2.- 🧠[ Análisis de datos BD AdventureWorks2022 ](https://aldoreyes84.github.io/adworks_data_analysis/en/)
 
-##### 3.- <img src="{{ 'assets/icons/microsoft-sql-server-logo.png' | relative_url }}" alt="ssis icon" width="24" height="19">[ Paquete de Integracion ETL SISS con archivos Python Faker ](https://aldoreyes84.github.io/ETL/)
+##### 3.- <img src="{{ 'assets/icons/microsoft-sql-server-logo.png' | relative_url }}" alt="ssis icon" width="24" height="19">[ Paquete de Integracion ETL SISS con archivos Python Faker ](https://aldoreyes84.github.io/etl_ssis_integration_package/en/)
 
 ---------------------------------------------------------------------------------------------------
 ## Documentos

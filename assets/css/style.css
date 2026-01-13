@@ -533,10 +533,11 @@ td a:hover {
 
 
 section {
+  max-width: 250px;
   flex: 0 0 20%;
   background-color: #f3f3f3;
   color: Gray;
-  padding: 24px;
+  padding: 0
   position: sticky;
   top: 0;
   align-self: start;

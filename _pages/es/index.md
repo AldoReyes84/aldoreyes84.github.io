@@ -36,7 +36,7 @@ title: Aldo Alan Reyes Hernandez – BI Portfolio
 ---------------------------------------------------------------------------------------------------
 ## Documentos
 
-#### [Currículum PDF](./assets/files/Aldo%20Reyes%20CV.pdf)
+#### [Currículum PDF](../assets/files/Aldo%20Reyes%20CV.pdf)
 
 ---------------------------------------------------------------------------------------------------- 
 ## Contacto

@@ -537,7 +537,7 @@ section {
   flex: 0 0 20%;
   background-color: #f3f3f3;
   color: Gray;
-  padding: 0
+  padding: 0;
   position: sticky;
   top: 0;
   align-self: start;

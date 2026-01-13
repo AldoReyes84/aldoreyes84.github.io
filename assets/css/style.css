@@ -676,6 +676,7 @@ pre, code {
 }
 
 aside {
+  max-width: 280px;
   flex: 0 0 20%;
   height: 100%;
   background-color: #f3f3f3;
